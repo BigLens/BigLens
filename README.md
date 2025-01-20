@@ -1,7 +1,6 @@
 - 👋 Hi, I’m BigLens
-- 👀 I’m interested in learning problem solving skills
 - 🌱 I’m a Software Developer
-- 💞️ I’m looking to collaborate on finding solution to complex tasks
+- 💞️ I’m looking to collaborate on finding solution to complex problems
 - 📫 You can reach me on Twitter @oluwalens
 
 <!---
