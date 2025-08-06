@@ -1,3 +1,4 @@
+<img src="file:///data/user/0/com.twitter.android/cache/1699168063629737984_header.jpg">
 <h1 align="center">Hi 👋, I'm Joel Adedeji</h1>
 <h3 align="center">A passionate backend developer from Nigeria</h3>
 
